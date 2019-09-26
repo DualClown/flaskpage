@@ -62,9 +62,9 @@ Debería aparecer algo así en la consola
     Debugger is active!
     Debugger PIN: xxx-xxx-xxx
 
-abrimos nuestro explorador de preferencia e ingresamos la ip y debería aparecer el mensaje "Bienvenidos a Digitales 3"
+abrimos nuestro explorador de preferencia e ingresamos la ip y debería aparecer el mensaje "Bienvenidos a Digitales 3".
 
-## Authors
+## Autores
 
 -   **Manuel Lopez**
 -   **Andres Castillo**
