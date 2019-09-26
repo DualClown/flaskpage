@@ -1,10 +1,10 @@
 # Como hacer una página de internet con python
 
-One Paragraph of project description goes here
+La finalidad de este proyecto es elaborar mediante una plataforma  denominada Python una página virtual cuyo propósito es crear cualquier contenido , para esta manera facilitar el intercambio de información utilizando IOT(internet de las cosas).
 
 ## Para Empezar
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Estas instrucciones le proporcionarán una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y pruebas.
 
 ### Prerrequisitos
 
