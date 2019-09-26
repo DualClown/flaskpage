@@ -46,50 +46,26 @@ Con esto ya deberiamos estar listos para correr nuestro primer codigo de flask.
 
 ## Ejecución de Pruebas
 
-Si entramos a el archivo [hello_flask](hello_flask.py)
+Si entramos a el archivo [hello_flask](hello_flask.py) y editamos la dirección ip a la que nos da el ifconfig ya podemos probrar nuestra pagina.
 
-### Break down into end to end tests
+    sudo python3 hello_flask.py
 
-Explain what these tests test and why
+Debería aparecer algo así en la consola
 
-    Give an example
+    Serving Flask app "hello_flask" (lazy loading)
+    Environment: production
+    WARNING: This is a development server. Do not use it in a production deployment.
+    Use a production WSGI server instead.
+    Debug mode: on
+    Running on "aqui va tu ip" (Press CTRL+C to quit)
+    Restarting with stat
+    Debugger is active!
+    Debugger PIN: xxx-xxx-xxx
 
-### And coding style tests
-
-Explain what these tests test and why
-
-    Give an example
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
--   [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
--   [Maven](https://maven.apache.org/) - Dependency Management
--   [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+abrimos nuestro explorador de preferencia e ingresamos la ip y debería aparecer el mensaje "Bienvenidos a Digitales 3"
 
 ## Authors
 
--   **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
--   Hat tip to anyone whose code was used
--   Inspiration
--   etc
+-   **Manuel Lopez**
+-   **Andres Castillo**
+-   **Camilo Duarte**
